@@ -16,7 +16,7 @@
 
 # Getting Started
 
-This is a Node.js Task for UNIFI Solutions that implements a simple TODO application using MongoDB.
+This is a simple Node.js TODO app using MongoDB.
 
 ## Installation
 
